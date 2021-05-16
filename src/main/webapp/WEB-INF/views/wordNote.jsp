@@ -92,7 +92,7 @@
 						<div class="card-body">
 							<h5 class="card-title fw-bolder">
 								<a href="/word/memoWords" style="color: black; text-decoration: none;">
-									空覚え
+									暗記
 								</a>
 							</h5>
 						</div>

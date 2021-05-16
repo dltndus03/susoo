@@ -113,7 +113,7 @@
                                       <img src="/resources/img/mi.png" width="64" height="64" style="margin-bottom:3px;"/>
                                   </button>
 							</td>
-							<td width="130" class="text"><strong>空覚え</strong><br /> <br/>
+							<td width="130" class="text"><strong>暗記</strong><br /> <br/>
 							<button class="btn mb-5"   onclick="window.open('../word/wordListForm','window','location=no, directories=no,resizable=no,status=no,toolbar=no,menubar=no, width=600,height=450,left=0, top=0, scrollbars=yes');return false">
                                       <img src="/resources/img/am.png" width="64" height="64" style="margin-bottom:3px;"/>
                                   </button>
